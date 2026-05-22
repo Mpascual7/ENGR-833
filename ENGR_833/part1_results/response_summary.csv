@@ -1,0 +1,13 @@
+quantity,value
+floor_weight_kip,50.0
+story_stiffness_kip_per_in,200.0
+mass_per_floor_tonne_used,22.671873676149335
+story_stiffness_kN_per_m_used,35025.36704929527
+peak_abs_roof_displacement_m,0.01584651969256975
+peak_abs_roof_displacement_in,0.6238787280539273
+time_of_peak_abs_roof_displacement_s,14.02
+peak_abs_base_shear_kN,181.92955912100055
+peak_abs_base_shear_kip,40.899391904588434
+time_of_peak_abs_base_shear_s,14.02
+PGA_g_after_scale,0.1010469
+PGA_m_per_s2_after_scale,0.991270089

@@ -1,0 +1,23 @@
+quantity,value
+case_name,part4_rayleigh_modes_1_and_3
+record_label,Imperial Valley ELC270
+NPTS,5346
+DT_s,0.01
+floor_weight_kip,50.0
+story_stiffness_kip_per_in,200.0
+mass_per_floor_tonne_used,22.671873676149335
+story_stiffness_kN_per_m_used,35025.36704929527
+ground_motion_scale_factor,1.0
+target_damping_ratio_modes_1_and_3,0.05
+rayleigh_mode_i,1
+rayleigh_mode_j,3
+rayleigh_alpha_1_per_s,0.9190153993370583
+rayleigh_beta_s,0.0015957629631810442
+peak_abs_roof_displacement_m,0.05652730770643359
+peak_abs_roof_displacement_in,2.225484555371401
+time_of_peak_abs_roof_displacement_s,11.92
+peak_abs_base_shear_kN,540.4701149697014
+peak_abs_base_shear_kip,121.5025153233176
+time_of_peak_abs_base_shear_s,11.65
+PGA_g_after_scale,0.210743
+PGA_m_per_s2_after_scale,2.06738883

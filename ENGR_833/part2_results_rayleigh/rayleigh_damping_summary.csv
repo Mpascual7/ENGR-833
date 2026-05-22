@@ -1,0 +1,12 @@
+quantity,value
+target_damping_ratio,0.05
+target_damping_percent,5.0
+rayleigh_mode_i,1.0
+rayleigh_mode_j,3.0
+alpha_mass_coefficient_1_per_s,0.9190153993370583
+beta_stiffness_coefficient_s,0.0015957629631810442
+xi_mode_1,0.05
+xi_mode_2,0.04012668728168188
+xi_mode_3,0.05
+xi_mode_4,0.059713088267011355
+xi_mode_5,0.0662729700399616

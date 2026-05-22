@@ -1,0 +1,6 @@
+quantity,five_percent_all_modes,rayleigh_modes_1_and_3,rayleigh_minus_five_percent,rayleigh_over_five_percent,percent_difference_from_five_percent
+PGA_g_after_scale,0.210743,0.210743,0.0,1.0,0.0
+peak_abs_roof_displacement_in,2.223548107289142,2.225484555371401,0.0019364480822590124,1.0008708820267531,0.08708820267531112
+time_of_peak_abs_roof_displacement_s,11.92,11.92,0.0,1.0,0.0
+peak_abs_base_shear_kip,121.50712787567745,121.5025153233176,-0.0046125523598590235,0.999962038833108,-0.0037961166892023423
+time_of_peak_abs_base_shear_s,11.65,11.65,0.0,1.0,0.0

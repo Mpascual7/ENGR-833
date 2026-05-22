@@ -1,0 +1,16 @@
+quantity,value
+floor_weight_kip,50.0
+story_stiffness_kip_per_in,200.0
+mass_per_floor_tonne_used,22.671873676149335
+story_stiffness_kN_per_m_used,35025.36704929527
+target_damping_ratio_modes_1_and_3,0.05
+rayleigh_alpha_1_per_s,0.9190153993370583
+rayleigh_beta_s,0.0015957629631810442
+peak_abs_roof_displacement_m,0.015799359512505867
+peak_abs_roof_displacement_in,0.622022028051412
+time_of_peak_abs_roof_displacement_s,14.02
+peak_abs_base_shear_kN,183.2992534927172
+peak_abs_base_shear_kip,41.207311448663674
+time_of_peak_abs_base_shear_s,14.02
+PGA_g_after_scale,0.1010469
+PGA_m_per_s2_after_scale,0.991270089

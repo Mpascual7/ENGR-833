@@ -1,0 +1,19 @@
+quantity,value
+case_name,part4_5percent_all_modes
+record_label,Imperial Valley ELC270
+NPTS,5346
+DT_s,0.01
+floor_weight_kip,50.0
+story_stiffness_kip_per_in,200.0
+mass_per_floor_tonne_used,22.671873676149335
+story_stiffness_kN_per_m_used,35025.36704929527
+ground_motion_scale_factor,1.0
+damping_ratio_all_modes,0.05
+peak_abs_roof_displacement_m,0.056478121925144203
+peak_abs_roof_displacement_in,2.223548107289142
+time_of_peak_abs_roof_displacement_s,11.92
+peak_abs_base_shear_kN,540.49063262481
+peak_abs_base_shear_kip,121.50712787567745
+time_of_peak_abs_base_shear_s,11.65
+PGA_g_after_scale,0.210743
+PGA_m_per_s2_after_scale,2.06738883

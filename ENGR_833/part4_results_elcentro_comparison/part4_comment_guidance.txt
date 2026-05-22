@@ -1,0 +1,6 @@
+Part 4 comparison notes
+
+1. Natural periods, mode shapes, participation factors, and static modal contribution factors depend only on M and K. They should match Parts 1 and 2 if the mass and stiffness values are unchanged.
+2. Dynamic response quantities such as peak roof displacement, peak base shear, and modal time histories change because the Imperial Valley ELC270 record has different amplitude, duration, and frequency content than the Northridge record.
+3. For the same Imperial Valley record, the 5 percent case and Rayleigh case differ only because the modal damping ratios differ. Rayleigh damping is exactly the target value at modes 1 and 3, but the other modes use the Rayleigh curve.
+4. Base shear is often more sensitive than roof displacement to high-mode response, so Rayleigh damping differences in higher modes may show up more strongly in base-shear plots and contribution tables.
